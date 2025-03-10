@@ -1,13 +1,21 @@
-# passo a passo aplicativo mobile
-Instalar o EXPO por esse link npx create-expo-app@latest
+Instalar o Expo CLI:
+Rode o comando npx create-expo-app@latest no terminal.
 
-Iniciar o projeto EXPO, dando um nome a ele
+Iniciar o Projeto:
+Dê um nome ao projeto quando solicitado.
 
-Baixar as dependências necessarias
+Instalar Dependências:
+O Expo irá baixar as dependências automaticamente.
+
+Iniciar o Servidor:
+Execute npx expo start no terminal.
+
+Rodar no Android:
+Pressione 'a' para abrir no emulador Android.
+
+Rodar no Celular Real:
+Escaneie o QR code exibido para rodar no dispositivo real.
 
 
-Rodar o comando "npx expo start"
 
-Pressionar 'a' para que o projeto android seja executado
 
-inicie em um celular virtual pelo android studio ou um celular real apartir pelo qr code 
